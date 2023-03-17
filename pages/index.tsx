@@ -1,6 +1,7 @@
-import styles from './page.module.css'
+import type { NextPage } from 'next'
+import styles from '../styles/Home.module.css'
 
-export default function Home() {
+const Home: NextPage = () => {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
@@ -9,3 +10,5 @@ export default function Home() {
     </main>
   )
 }
+
+export default Home
