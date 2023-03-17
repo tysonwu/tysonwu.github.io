@@ -1,7 +1,7 @@
-<h1 style="text-align: center">tysonwu.github.io</h1>
+<h1 style="text-align:center;">tysonwu.github.io</h1>
 
 [Visit my website here!](https://tylab.dev)
----
+======================
 
 ## Development
 
