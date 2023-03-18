@@ -8,11 +8,24 @@
 }
 
 .container {
+  color: white;
   width: 50%;
   height: 60vh;
-  background-color: #e2e0c6;
+  /* background-color: #e2e0c6; */
   padding: 2em;
-  border-radius: 1em;
-  border: 2px solid black;
-  box-shadow: 10px 10px #00000070;
+  /* border-radius: 1em; */
+  /* border: 2px solid black; */
+  /* box-shadow: 10px 10px #00000070; */
+}
+
+.title {
+  font-size: 8em;
+  font-weight: 600;
+  color: rgb(226, 226, 226);
+  border-bottom: 20px solid rgb(68, 21, 236);
+  margin-bottom: 20px;
+}
+
+.findMe {
+  color: rgb(68, 21, 236);
 }

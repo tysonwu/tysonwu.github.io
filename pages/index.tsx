@@ -5,7 +5,8 @@ const Home: NextPage = () => {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <h1>tylab.dev</h1>
+        <div className={styles.title}>tylab.dev</div>
+        <p className={styles.findMe}><a href='https://github.com/tysonwu' target='blank'>Find me on GitHub</a></p>
       </div>
     </main>
   )
